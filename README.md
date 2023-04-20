@@ -1,0 +1,3 @@
+# google_keep_clone
+
+This clone is nearest clone to the "Google Keep". This has the add note n delete and also edit the note and the choose background options too....
