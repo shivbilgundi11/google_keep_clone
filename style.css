@@ -275,7 +275,7 @@ textarea {
 .desc-cont {
     width: 100%;
     height: 160px;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .card-footer {
